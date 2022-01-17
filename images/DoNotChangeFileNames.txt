@@ -1,0 +1,3 @@
+[Warning]
+
+Do NOT remove or change the names of any files. This may lead to errors while running the application (VenSipher).
