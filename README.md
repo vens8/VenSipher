@@ -11,7 +11,7 @@ VenSipher is a free medium through which text can be enciphered. It can convert 
 A mere internet connection.
 
 ## Installation
-- Install `VenSipher-setup.exe` from [here](https://github.com/vens8/VenSipher/releases).
+- Install `VenSipher-setup.exe` from [here](https://github.com/vens8/VenSipher/releases/tag/1.1.0.0).
 - Follow the installation steps and you're good to go!
 
 ## Screenshots
