@@ -20,12 +20,12 @@ AppPublisher={#MyAppPublisher}
 DefaultDirName={autopf}\{#MyAppName}
 ChangesAssociations=yes
 DisableProgramGroupPage=yes
-LicenseFile=C:\Users\license.txt ; Insert license location
+LicenseFile=C:\Users\license.txt (* Insert license location *)
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
-OutputDir=C:\Users ; Output directory of the setup file
+OutputDir=C:\Users (* Output directory of the setup file *)
 OutputBaseFilename=VenSipher-setup
-SetupIconFile=C:\Users\Rahul Maddula\VenSipher\images\VenSipherLogo.ico ; Location to VenSipher logo
+SetupIconFile=C:\Users\Rahul Maddula\VenSipher\images\VenSipherLogo.ico (* Location to VenSipher logo *)
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
