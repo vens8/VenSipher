@@ -1,6 +1,5 @@
 # Copyright (C) Ravens Enterprises - All Rights Reserved
-# * Unauthorized copying of this file, via any medium is strictly prohibited
-# * Proprietary and confidential
+# Open-source
 # * Written by Rahul Maddula <vensr.maddula@gmail.com>, June 2020
 
 import tkinter as tk
